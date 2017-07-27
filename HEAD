@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 a2353f044bf142377bf8c720f7309a45bd3e525b work <sgeg59@yandex.ru> 1501169650 +0500	commit (initial): h1 was added
+a2353f044bf142377bf8c720f7309a45bd3e525b 00c63436f5493d8fbf33536ddcac800c00375846 work <sgeg59@yandex.ru> 1501170023 +0500	commit: H2 was added
+00c63436f5493d8fbf33536ddcac800c00375846 920a5c27a30108ab1afe84ba947c8ae198f01519 work <sgeg59@yandex.ru> 1501171185 +0500	commit: Modified file style.css
+920a5c27a30108ab1afe84ba947c8ae198f01519 136c5b8ee9f39696daf13c42e02f6e6688650914 work <sgeg59@yandex.ru> 1501171558 +0500	commit: Deleted the style.css from the root folder
+136c5b8ee9f39696daf13c42e02f6e6688650914 9d1c490a2e81a4b78ad8f8dfd2a588dbc37f4f4d work <sgeg59@yandex.ru> 1501173091 +0500	commit: added header H3
+9d1c490a2e81a4b78ad8f8dfd2a588dbc37f4f4d dad3c77a85fa70bdce4a9d935c6287e2817e90a8 work <sgeg59@yandex.ru> 1501174467 +0500	commit: Uploade a prototype of the website
+dad3c77a85fa70bdce4a9d935c6287e2817e90a8 9d528cf827a3d0a1437d9d4844bd3181dcbe68f0 work <sgeg59@yandex.ru> 1501176468 +0500	commit: Перенес в tmp папку img
